@@ -20,7 +20,7 @@ public class SecondRequestHandler extends BaseRequestHandler {
     /**
      * The constant REQUEST_URL.
      */
-    private static final String REQUEST_URL = "http://jsonplaceholder.typicode.com/posts";
+    private static final String REQUEST_URL = "http://jsonplaceholder.typicode.com/posts?userId=2";
 
     /**
      * Instantiates a new Request handler.
